@@ -1,0 +1,22 @@
+{
+  "name": "fastcheapgood",
+  "version": "1.0.0",
+  "description": "Fast. Cheap. Good. Pick two.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathewjcohen/fastcheapgood.git"
+  },
+  "author": "Mathew Cohen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mathewjcohen/fastcheapgood/issues"
+  },
+  "homepage": "https://github.com/mathewjcohen/fastcheapgood#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
